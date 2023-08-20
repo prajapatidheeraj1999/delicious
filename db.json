@@ -1,0 +1,303 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/cb6e4eb8-6aec-7872-1638-0c2cf7970b71/original/Todays_Deals.png",
+      "name": "Today's Deals"
+    },
+    {
+      "id": 2,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/07ee9c6c-2f08-9aa6-2721-436950267c96/original/Chicken_20.png",
+      "name": "Chicken"
+    },
+    {
+      "id": 3,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/ff043c52-cba7-a63a-2050-2335e011fa55/original/FIsh_(3).png",
+      "name": "Fish & Seafood"
+    },
+    {
+      "id": 4,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/a66990a5-ad16-08e9-75f2-9bb2dd490801/original/Mutton_20.png",
+      "name": "Mutton"
+    },
+    {
+      "id": 5,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/f06c1bad-2e06-832a-cdc1-14571353bba9/original/RTC_(2).png",
+      "name": "Ready to Cook"
+    },
+    {
+      "id": 6,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/f4053965-f199-80a0-2551-d85d712574e2/original/Prawn_(2).png",
+      "name": "Prowns"
+    },
+    {
+      "id": 7,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/49a8dd0c-7254-0b89-b348-b57281c76f5a/original/Coldcuts_(2).png",
+      "name": "Cold Cuts"
+    },
+    {
+      "id": 8,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/1765bfd0-521a-2fa1-e0ac-2ae0ddf7af96/original/spreads-icon_(1).jpg",
+      "name": "Spreads"
+    },
+    {
+      "id": 9,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/1bd08fae-c971-390a-ce8a-6f6502f5bd0d/original/Eggs_(1).png",
+      "name": "Eggs"
+    },
+    {
+      "id": 10,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/0b7ccd0f-0811-c38b-5420-0317c8006bda/original/Biryani_(2).png",
+      "name": "Biryani & Kebab"
+    },
+    {
+      "id": 11,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/66e49926-d949-dfb3-2e79-8052d07f0a3b/original/PBM_6_(8).png",
+      "name": "Plant Based Meat"
+    },
+    {
+      "id": 12,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-Category/3f37d093-81cf-3c66-115a-2a4575420d68/original/Masala_1200x840_web.png",
+      "name": "Meat Masala"
+    }
+  ],
+  "bestseler": [
+    {
+      "id": 1,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ac53a507-4bdd-92cd-ee0b-c96281e04999/original/chicken-curry-cut.jpg?format=webp",
+      "name": "Chicken Curry Cut - Small Pieces",
+      "discription": "Fresh Nakhre & fresh bone-in & boneless chicken cuts",
+      "wait": "500gms",
+      "price": "₹169"
+    },
+    {
+      "id": 2,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/fcea4075-0ed2-23c1-2b3f-1cddcbd1d11f/original/Chicken-Breast-Boneless-(3-4-Pieces)-Hero-Shot_(1).jpg?format=webp",
+      "name": "Chicken Breast - Boneless",
+      "discription": "Boneless fillets: special nakhre for special cuts",
+      "wait": "450gms",
+      "price": "₹236"
+    },
+    {
+      "id": 3,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a917c576-c350-375a-afad-4882c7fd85a8/original/Classic-Eggs---Pack-of-12-Hero-Shot.jpg?format=webp",
+      "name": "Classic Eggs - Pack Of 12",
+      "discription": "White shell eggs laid by healthy hens.",
+      "wait": "Pieces: 12",
+      "price": "₹116"
+    },
+    {
+      "id": 4,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ebbe0aea-32fb-a0cf-abc8-b1d7cd9688fb/original/ChickenLC.jpg?format=webp",
+      "name": "Chicken Curry Cut - Large Pieces",
+      "discription": "Fresh Nakhre for tender bone-in & boneless chicken cuts",
+      "wait": "500gms",
+      "price": "₹169"
+    },
+    {
+      "id": 5,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/3e9023d4-e2f7-2fe6-c68f-75014733ff7e/original/Chicken_Mince_Large_Pack_Hero_Shot.jpg?format=webp",
+      "name": "Chicken Mince (Keema)",
+      "discription": "Tender, perfectly ground meat from our Nakhrebaaz tea",
+      "wait": "450gms",
+      "price": "₹247"
+    },
+    {
+      "id": 6,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/f72684bf-55b0-27a4-0d0f-6bd0535450ff/original/WhatsApp_Image_2022-04-13_at_2.16.31_PM.jpeg?format=webp",
+      "name": "Freshwater/ White Prawns/ Jhinga/ Kolambi (Medium) - Cleaned & Deveined",
+      "discription": "Freshwater prawns. De-shelled, cleaned, deveined, butte",
+      "wait": "250gms",
+      "price": "₹449"
+    },
+    {
+      "id": 7,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ffd4144f-25a7-6f26-2d90-9a9db0332dda/original/Chicken_Thigh_Boneless_Hero_Shot.jpg?format=webp",
+      "name": "Chicken Thigh Boneless",
+      "discription": "Fresh nakhre for fresh, juicy & tender chicken thigh cuts",
+      "wait": "450gms",
+      "price": "₹339"
+    },
+    {
+      "id": 8,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/feedc98d-42e1-0e0a-7da0-0072fa84977c/original/p2_tile_images_6th_folder-09_(1).jpg?format=webp",
+      "name": "Rohu (Rui) Medium - Bengali Cut, No Head",
+      "discription": "Nakhre that fly fish to you, cut & cleaned for curries",
+      "wait": "500gms",
+      "price": "₹289"
+    },
+    {
+      "id": 9,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7aa413c3-ab87-2067-1b35-3aa62d5ceef8/original/Lean-Goat-Curry-Cut-(Small,-16-20-Pieces)-Hero-Shot.jpg?format=webp",
+      "name": "Lean Goat Curry Cut - Small Pieces",
+      "discription": "Trimmed bone-in & boneless pieces",
+      "wait": "500gms",
+      "price": "₹569"
+    },
+    {
+      "id": 10,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9847399c-14ad-1dd8-e4ea-1d53f05fdb90/original/Creamy-Afghani-Chicken_(2).jpg?format=webp",
+      "name": "Creamy Afghani Chicken (Mini) | Ready to Cook",
+      "discription": "Boneless pieces of chicken in a creamy marinade.",
+      "wait": "255gms",
+      "price": "₹176"
+    }
+  ],
+  "boneless": [
+    {
+      "id": 1,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/9042ab78-7440-4da6-b903-79cfeb337486/original/Goat-Boneless-Hero-Shot.jpg?format=webp",
+      "name": "Goat Boneless",
+      "discription": "Boneless pieces of chicken in a creamy marinade.",
+      "wait": "500 gms",
+      "price": "₹829"
+    },
+    {
+      "id": 2,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ffd4144f-25a7-6f26-2d90-9a9db0332dda/original/Chicken_Thigh_Boneless_Hero_Shot.jpg?format=webp",
+      "name": "Chicken Thigh Boneless",
+      "discription": "Boneless pieces of chicken in a creamy marinade.",
+      "wait": "450 gms",
+      "price": "₹320"
+    },
+    {
+      "id": 3,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/233fa0d5-e6d8-fb39-85b5-959871c2f2c6/original/p0_tile_images-07_(1).jpg?format=webp",
+      "name": "Basa pasan)- Boneless Cubes",
+      "discription": "Boneless pieces of Fish in a creamy marinade.",
+      "wait": "450 gms",
+      "price": "₹467"
+    },
+    {
+      "id": 4,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/47cc38e3-9251-0d02-06f3-e22b87e8afdd/original/p0_tile_images-10.jpg?format=webp",
+      "name": "Basa (Sheelan)- Boneless Cubes",
+      "discription": "Boneless pieces of Fish in a creamy marinade.",
+      "wait": "450 gms",
+      "price": "₹467"
+    },
+    {
+      "id": 5,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/2831d674-fd93-eec9-f638-5cf11c850d24/original/Lamb-Leg-(Boneless)-Hero-Shot_(1).jpg?format=webp",
+      "name": "Lamb Leg Boneless",
+      "discription": "Boneless pieces of Chicken in a creamy marinade.",
+      "wait": "500gms",
+      "price": "₹967"
+    },
+    {
+      "id": 6,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/29ea4091-29c4-6c2d-e980-6789287d691d/original/Chicken-Tenders-(Boneless)-Hero-Shot.jpg?format=webp",
+      "name": "Checken Tender Boneless",
+      "discription": "Boneless pieces of Chicken in a creamy marinade.",
+      "wait": "350gms",
+      "price": "₹289"
+    },
+    {
+      "id": 7,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/7bc75cc8-0bcf-0038-65c2-c0724557803f/original/p1_tile_images-22.jpg?format=webp",
+      "name": "seer Medium Boneless",
+      "discription": "Boneless pieces of Chicken in a creamy marinade.",
+      "wait": "300gms",
+      "price": "₹925"
+    }
+  ],
+  "breakfast": [
+    {
+      "id": 1,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/c0f6f978-0dd8-d825-7386-0d1f593153c0/original/Shawarma-Chicken.png?format=webp",
+      "name": "Chunky shawarma Checken Spread",
+      "discription": "A creamy base with freshly rosted checken",
+      "wait": "300gms",
+      "price": "₹925"
+    },
+    {
+      "id": 2,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ad60f59b-612e-11b8-80f4-3308430cc609/original/Peppery-Chicken-Salami_(1).jpg?format=webp",
+      "name": "Preppery Checken Salami Ready to Eat",
+      "discription": "A creamy base with freshly rosted checken",
+      "wait": "300gms",
+      "price": "₹199"
+    }
+  ],
+  "uerathentication": [
+    {
+      "id": "1",
+      "frist": "dheeraj",
+      "last": "prajapati",
+      "email": "dheerajprajapatijnp@gmail.com",
+      "password": "1234"
+    },
+    {
+      "frist": "pawan",
+      "last": "prajapati",
+      "email": "pawanprajapatijnp@gmail.com",
+      "password": "1954",
+      "id": "KMTVWNt"
+    },
+    {
+      "frist": "abhi",
+      "last": "prajapti",
+      "email": "abhi123@gmail.com",
+      "password": "2345",
+      "id": "RESO79Y"
+    },
+    {
+      "email": "dheerajprajapatijnp@gmail.com",
+      "password": "1234",
+      "id": "esGHbiu"
+    },
+    {
+      "email": "dheerajprajapatijnp@gmail.com",
+      "password": "1234",
+      "id": "Sw20t-B"
+    },
+    {
+      "email": "dheerajprajapatijnp@gmail.com",
+      "password": "1234",
+      "id": "P4S9eoG"
+    },
+    {
+      "email": "dheerajprajapatijnp@gmail.com",
+      "password": "1234",
+      "id": "Rl6Kg6c"
+    },
+    {
+      "email": "dheerajprajapatijnp@gmail.com",
+      "password": "1234",
+      "id": "3-VGj-V"
+    },
+    {
+      "email": "dheerajprajapatijnp@gmail.com",
+      "password": "1234",
+      "id": "AD0dOBB"
+    },
+    {
+      "email": "dheerajprajapatijnp@gmail.com",
+      "password": "1234",
+      "id": "69Qjr3o"
+    },
+    {
+      "email": "dheerajprajapatijnp@gmail.com",
+      "password": "1234",
+      "id": "7AgZaUB"
+    }
+  ],
+  "card": [
+    {
+      "id": 3,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/a917c576-c350-375a-afad-4882c7fd85a8/original/Classic-Eggs---Pack-of-12-Hero-Shot.jpg?format=webp",
+      "name": "Classic Eggs - Pack Of 12",
+      "discription": "White shell eggs laid by healthy hens.",
+      "wait": "Pieces: 12",
+      "price": "₹116"
+    },
+    {
+      "id": 1,
+      "image": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ac53a507-4bdd-92cd-ee0b-c96281e04999/original/chicken-curry-cut.jpg?format=webp",
+      "name": "Chicken Curry Cut - Small Pieces",
+      "discription": "Fresh Nakhre & fresh bone-in & boneless chicken cuts",
+      "wait": "500gms",
+      "price": "₹169"
+    }
+  ]
+}
