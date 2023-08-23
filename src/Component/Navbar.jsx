@@ -19,6 +19,8 @@ import logo from "./image/finallogo.png"
 import {AiOutlineUser} from 'react-icons/ai'
 import { GrCart } from "react-icons/gr"
 import { BiCategory } from "react-icons/bi"
+import Login from './Login';
+import Shoping from './Shoping';
 
 
 export default function Navbar() {
@@ -45,17 +47,12 @@ export default function Navbar() {
               
                 
                 <BiCategory/> <span>Categories</span>
-                <Link to="/cart"><GrCart/></Link><sup>0</sup> <span>Cart</span>
+                {/* <GrCart/><sup>0</sup> */}
+                <Shoping/>
               
             </HStack>
           </HStack>
-          {/* <Flex alignItems={'center'}>
-            {
-            isAuth?<Link><AiOutlineUser />Logout </Link>:<Link to="/signin"><AiOutlineUser />Login </Link>
-          
-            }
-          </Flex> */}
-          login
+          <Login/>
         </Flex>
            
         {isOpen ? (
